@@ -3,7 +3,7 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- :orange_book: 读研中
+- :hammer: 交易系统全栈工程师
+- :ram: 努力赚钱
+- :meat_on_bone: 健身
